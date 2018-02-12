@@ -13,7 +13,7 @@ Objective of this challenge is to evaluate your domain in **fullstack developmen
 2. Develop the project using:
     - HTML and CSS (or some preprocessor);
     - Some SPA framework (Single Page Application). Suggestion: **Vue.js, ReactJS** ;
-    - APIs em **Node.js, Go, Python**;
+    - APIs in **Node.js, Go, Python**;
 3. Submit the link of your repository with the challenge code until **10 days** after its application.
 
 ## The challenge
