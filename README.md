@@ -19,10 +19,10 @@ Objective of this challenge is to evaluate your domain in fullstack development,
 ## The challenge
 
 Here is the layout that should be produced:
-![Layout](files/layout-onepage.png)
+![Layout](files/layout.png)
 
 Here's the layout in PSD:
-[File Download](files/layout-onepage.psd)
+[File Download](files/layout.psd)
 
 ### APIs
 
