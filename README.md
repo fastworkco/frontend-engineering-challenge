@@ -41,7 +41,9 @@ You should develop this API that returns the JSON with the list of "employees" w
 ### Some tips and remarks
 
 > Note 1: Feel free to use any 3rd party, be it for graphics, tests, etc;
+
 > Note 2: Consider that all fields are mandatory in the form.
+
 > Note 3: Consider validating the fields also in the API and in case of inconsistency return error in a structured JSON with HTTP 400 code
 
 ## Host it!
