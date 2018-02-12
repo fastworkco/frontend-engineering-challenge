@@ -82,4 +82,4 @@ Bonus point (those items are optional):
 
 ## Doubts
 
-Send your questions directly to [ben@fastwork.co](mailto:ben@fastwork.co) or opening a issue
+Send your questions directly to [ben@fastwork.co](mailto:ben@fastwork.co).
