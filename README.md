@@ -26,7 +26,7 @@ Here's the layout in PSD:
 
 ### APIs
 
-Note that in the layout above we have a form, a table with information of percentage of participation of each person and a graph of pizza that represents this distribution, that is, we need API that sends and receives these from server.
+Note that in the layout above we have a form, a table with information of percentage of participation of each person and a donut chart that represents this distribution, that is, we need API that sends and receives these from server.
 
 #### POST /employees
 
